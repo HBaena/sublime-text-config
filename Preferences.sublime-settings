@@ -1,0 +1,39 @@
+{
+	"added_words":
+	[
+		"perceptron",
+		"overfitting",
+		"underfitting"
+	],
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"AutoSpell",
+		"Colorcoder",
+		"Emmet",
+		"Helium",
+		"IPython Notebook",
+		"LaTeXing",
+		"Pylinter",
+		"pyzmq",
+		"sublimelint",
+		"Vintage"
+	],
+	"open_files_in_new_window": true,
+	"original_color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
+	"theme": "Material Solarized Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

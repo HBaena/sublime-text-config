@@ -1,0 +1,47 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Anaconda",
+		"AutoFileName",
+		"AutoPEP8",
+		"AutoSpell",
+		"C++ Completions",
+		"C++ Snippets",
+		"CiteBibtex",
+		"Colorcoder",
+		"ColorHelper",
+		"DocBlockr",
+		"DocPy",
+		"Emmet",
+		"FileSystem Autocompletion",
+		"Git",
+		"Helium",
+		"IPython Notebook",
+		"Jinja2",
+		"LaTeX Accents",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"LaTeXTools",
+		"LoremIpsum",
+		"MasmAssembly",
+		"Materialize",
+		"Monokai++",
+		"Package Control",
+		"Phpactor",
+		"Pylinter",
+		"Python 3",
+		"R-snippets",
+		"RemoteSubl",
+		"SideBarEnhancements",
+		"sublimelint",
+		"SummitLinter",
+		"Terminal",
+		"Terminus"
+	]
+}
