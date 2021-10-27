@@ -8,6 +8,7 @@
 		"A File Icon",
 		"AdvancedNewFile",
 		"Anaconda",
+		"AutoDocstring",
 		"AutoFileName",
 		"AutoPEP8",
 		"AutoSpell",
@@ -17,6 +18,7 @@
 		"Colorcoder",
 		"ColorHelper",
 		"DocBlockr",
+		"DocBlockr_Python",
 		"DocPy",
 		"Emmet",
 		"FileSystem Autocompletion",
@@ -32,8 +34,10 @@
 		"MasmAssembly",
 		"Materialize",
 		"Monokai++",
+		"Nodejs",
 		"Package Control",
 		"Phpactor",
+		"PostgreSQL Syntax Highlighting",
 		"Pylinter",
 		"Python 3",
 		"R-snippets",
@@ -42,6 +46,6 @@
 		"sublimelint",
 		"SummitLinter",
 		"Terminal",
-		"Terminus"
-	]
+		"Terminus",
+	],
 }

@@ -9,11 +9,11 @@
 	[
 		{
 			"characters": "<",
-			"selector": "text.html"
+			"selector": "text.html",
 		},
 		{
 			"characters": "\\",
-			"selector": "text.tex.latex"
+			"selector": "text.tex.latex",
 		}
 	],
 	"color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
@@ -21,19 +21,25 @@
 	"ignored_packages":
 	[
 		"Anaconda",
+		"AppleScript",
+		"AutoPEP8",
 		"AutoSpell",
 		"Colorcoder",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"DocPy",
 		"Emmet",
 		"Helium",
 		"IPython Notebook",
 		"LaTeXing",
 		"Pylinter",
+		"Python 3",
 		"pyzmq",
 		"sublimelint",
-		"Vintage"
+		"Vintage",
 	],
 	"open_files_in_new_window": true,
 	"original_color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
 	"theme": "Material Solarized Dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
 }
